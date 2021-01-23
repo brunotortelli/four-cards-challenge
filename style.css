@@ -1,0 +1,49 @@
+
+body{
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    margin: 0 auto;
+    padding: 0;
+}
+
+
+.l-color-red {
+    color: hsl(0, 78%, 62%);
+}
+.l-color-cian {
+    color: hsl(180, 62%, 55%);
+}
+.l-color-orange {
+    color: hsl(34, 97%, 64%);
+}
+.l-color-blue {
+    color:hsl(212, 86%, 64%);
+}
+.l-color-veryDarkBlue{
+    color:hsl(234, 12%, 34%);
+}
+.l-color-GrayishBlue{
+    color:hsl(229, 6%, 66%);
+}
+.l-color-lightGray{
+    color:hsl(0, 0%, 98%);
+}
+
+
+
+.c-title{
+    color:hsl(229, 6%, 66%);
+    font-weight: 200;
+}
+.c-subtitle{
+    color:hsl(234, 12%, 34%);
+    font-weight: 600;
+}
+.c-description{
+    color:hsl(229, 6%, 66%);
+}
+
+.c-card{}
+.c-card-title{}
+.c-card-description{}
+.c-card-icon{}
